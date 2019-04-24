@@ -1,0 +1,4 @@
+﻿  WindowsProject1.cpp
+c:\users\artemletyushev\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(115): warning C4101: szFileTitle: неиспользованная локальная переменная
+c:\users\artemletyushev\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(204): warning C4101: szSaveFileName: неиспользованная локальная переменная
+  WindowsProject1.vcxproj -> C:\Users\ArtemLetyushev\source\repos\WindowsProject1\Debug\WindowsProject1.exe
